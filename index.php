@@ -19,7 +19,7 @@
         <ul>
             <li><a href="index.php">Home</a></li>
             <li><a href="admin_login.html">Admin Login</a></li>
-            <li><a href="admin_register.html">Admin Register</a></li>
+            
             <li><a href="user_login.html">User Login</a></li>
             <li><a href="user_register.html">User Register</a></li>
         </ul>
